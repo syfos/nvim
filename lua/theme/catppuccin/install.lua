@@ -72,7 +72,7 @@ return {
       vim.g.everforest_disable_italic_comment = 1
 
       vim.o.background = "dark"
-      vim.cmd.colorscheme("everforest")
+      -- vim.cmd.colorscheme("everforest")
     end,
   },
 }
